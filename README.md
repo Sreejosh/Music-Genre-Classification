@@ -17,9 +17,8 @@ The approach involves preprocessing audio tracks to convert them into spectrogra
 **Models Used**
 
 Several deep learning models were implemented and compared for performance:
-****CRNN**
 
-**CRNN(Attention)**
+**CRNN**
 
 **CNN**
 
