@@ -27,7 +27,7 @@ Several deep learning models were implemented and compared for performance:
 
 **VGG19**
 
-**ResNet****
+**ResNet**
 
 Each model was trained on the spectrogram data and evaluated based on classification accuracy and other relevant metrics.
 
@@ -40,12 +40,15 @@ The dataset consists of audio tracks from various music genres. All tracks were 
 Audio Preprocessing: The audio files are converted to a consistent format, with steps such as mono conversion, normalization, and trimming.
 
 **Spectrogram Transformation:**
+
 The processed audio is converted into spectrograms to capture frequency-based features over time.
 
 **Model Training:** 
+
 Deep learning models are trained using the spectrogram data as input and genre labels as targets.
 
 **Evaluation:** 
+
 The performance of each model is assessed using classification metrics such as accuracy, precision, recall, and F1-score.
 
 **Key Learnings**
